@@ -1,0 +1,42 @@
+body {
+    background: lightblue;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-family: Calibri;
+    background-color: aliceblue;
+    padding: 25px;
+    color: darkslategray;
+}
+h2 {
+    text-align: center;
+    font-style: oblique;
+    font-family: Calibri;
+}
+p {
+    text-align: center;
+    width: 500px;
+    font-family: Calibri;
+    font-size: larger;
+    padding: 25px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+ol {
+    text-align: left;
+    width: 500px;
+    font-family: Calibri;
+    font-size: larger;
+    padding: 25px;
+    margin: 0 auto;
+    background-color: rgb(213, 232, 251);
+}
+li {
+    text-align: left;
+    padding: 5px;
+}
+img {
+    margin: 25px;
+}
